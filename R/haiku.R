@@ -2,6 +2,7 @@
 #'
 #' Prints haikus on a console. Remember though: Too much haikus and no fun makes
 #' Jack a dull boy.
+#' @importFrom stats rbeta
 #' @return a haiku
 #' @export
 #'
