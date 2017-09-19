@@ -6,7 +6,7 @@ Description: A haiku in English is a very short poem in the English language,
     following to a greater or lesser extent the form and style of the Japanese
     haiku. A typical haiku is a three-line observation about a fleeting moment 
     involving nature.
-Depends: R (>= 3.4.1)
+Depends: R (>= 3.3.3)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
