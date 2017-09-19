@@ -25,7 +25,6 @@ deal_with_it = function() {
 }
 
 one_by_one = function(x, int = 0.075) {
-  assertthat::is.string(x)
   x = unlist(strsplit(x, split = ""))
   for (i in seq_along(x)) {
     cat(x[i])
